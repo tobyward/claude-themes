@@ -1,0 +1,31 @@
+{
+  "name": "Rosé Pine Moon",
+  "base": "dark",
+  "overrides": {
+    "claude": "#c4a7e7",
+    "claudeShimmer": "#ea9a97",
+    "text": "#e0def4",
+    "inverseText": "#232136",
+    "inactive": "#6e6a86",
+    "subtle": "#44415a",
+    "suggestion": "#9ccfd8",
+    "permission": "#c4a7e7",
+    "success": "#95b1ac",
+    "error": "#eb6f92",
+    "warning": "#f6c177",
+    "promptBorder": "#c4a7e7",
+    "planMode": "#3e8fb0",
+    "autoAccept": "#95b1ac",
+    "bashBorder": "#ea9a97",
+    "diffAdded": "#383b4b",
+    "diffRemoved": "#472f47",
+    "diffAddedDimmed": "#313244",
+    "diffRemovedDimmed": "#3b2a41",
+    "diffAddedWord": "#4b535f",
+    "diffRemovedWord": "#693c56",
+    "userMessageBackground": "#1e1e2e",
+    "bashMessageBackgroundColor": "#1f1d30",
+    "memoryBackgroundColor": "#1f1d30",
+    "selectionBg": "#44415a"
+  }
+}
