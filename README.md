@@ -7,8 +7,8 @@
 ```bash
 mv ~/Downloads/{theme name}.json ~/.claude/themes/`
 ```
-5. Start claude code, run `/theme` and select the theme you downloaded
-6. Edit theme as much as you want using the file in `~/.claude/themes/{theme name}.json`
+3. Start claude code, run `/theme` and select the theme you downloaded
+4. Edit theme as much as you want using the file in `~/.claude/themes/{theme name}.json`
 
 ## Additional Themes  
 I am happy to create additional themes upon request, please request using issues. Please include the theme name and as much info as possible or references for colours to use in the theme.
